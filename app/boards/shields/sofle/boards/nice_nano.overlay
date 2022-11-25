@@ -16,7 +16,7 @@
 
       /* WS2812 */
       chain-length = <29>; /* arbitrary; change at will */
-      spi-one-frame = <0x70>;
+      spi-one-frame = <0x72>;
       spi-zero-frame = <0x40>;
    };
 };
